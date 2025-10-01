@@ -1,0 +1,288 @@
+[submodule "pyhc_packages/heliophysicsPy.github.io"]
+	path = pyhc_packages/heliophysicsPy.github.io
+	url = https://github.com/heliophysicsPy/heliophysicsPy.github.io
+[submodule "pyhc_packages/standards"]
+	path = pyhc_packages/standards
+	url = https://github.com/heliophysicsPy/standards
+[submodule "pyhc_packages/pyhc-docker-environment"]
+	path = pyhc_packages/pyhc-docker-environment
+	url = https://github.com/heliophysicsPy/pyhc-docker-environment
+[submodule "pyhc_packages/pyhc-docs"]
+	path = pyhc_packages/pyhc-docs
+	url = https://github.com/heliophysicsPy/pyhc-docs
+[submodule "pyhc_packages/sunpy"]
+	path = pyhc_packages/sunpy
+	url = https://github.com/sunpy/sunpy
+[submodule "pyhc_packages/pysat"]
+	path = pyhc_packages/pysat
+	url = https://github.com/pysat/pysat
+[submodule "pyhc_packages/PlasmaPy"]
+	path = pyhc_packages/PlasmaPy
+	url = https://github.com/PlasmaPy/PlasmaPy
+[submodule "pyhc_packages/spacepy"]
+	path = pyhc_packages/spacepy
+	url = https://github.com/spacepy/spacepy
+[submodule "pyhc_packages/pyspedas"]
+	path = pyhc_packages/pyspedas
+	url = https://github.com/spedas/pyspedas
+[submodule "pyhc_packages/Kamodo"]
+	path = pyhc_packages/Kamodo
+	url = https://github.com/nasa/Kamodo
+[submodule "pyhc_packages/client-python"]
+	path = pyhc_packages/client-python
+	url = https://github.com/hapi-server/client-python
+[submodule "pyhc_packages/aacgmv2"]
+	path = pyhc_packages/aacgmv2
+	url = https://github.com/aburrell/aacgmv2
+[submodule "pyhc_packages/afino_release_version"]
+	path = pyhc_packages/afino_release_version
+	url = https://github.com/aringlis/afino_release_version
+[submodule "pyhc_packages/aiapy"]
+	path = pyhc_packages/aiapy
+	url = https://github.com/LM-SAL/aiapy
+[submodule "pyhc_packages/aidapy"]
+	path = pyhc_packages/aidapy
+	url = https://gitlab.com/aidaspace/aidapy
+[submodule "pyhc_packages/amisrsynthdata"]
+	path = pyhc_packages/amisrsynthdata
+	url = https://github.com/amisr/amisrsynthdata
+[submodule "pyhc_packages/apexpy"]
+	path = pyhc_packages/apexpy
+	url = https://github.com/aburrell/apexpy
+[submodule "pyhc_packages/asilib"]
+	path = pyhc_packages/asilib
+	url = https://github.com/mshumko/asilib
+[submodule "pyhc_packages/ccsdspy"]
+	path = pyhc_packages/ccsdspy
+	url = https://github.com/CCSDSPy/ccsdspy
+[submodule "pyhc_packages/cdflib"]
+	path = pyhc_packages/cdflib
+	url = https://github.com/MAVENSDC/cdflib
+[submodule "pyhc_packages/cloudcatalog"]
+	path = pyhc_packages/cloudcatalog
+	url = https://github.com/heliocloud-data/cloudcatalog/
+[submodule "pyhc_packages/dbprocessing"]
+	path = pyhc_packages/dbprocessing
+	url = https://github.com/spacepy/dbprocessing
+[submodule "pyhc_packages/enlilviz"]
+	path = pyhc_packages/enlilviz
+	url = https://github.com/SWxTREC/enlilviz
+[submodule "pyhc_packages/EUVpy"]
+	path = pyhc_packages/EUVpy
+	url = https://github.com/DanBrandt/EUVpy
+[submodule "pyhc_packages/fiasco"]
+	path = pyhc_packages/fiasco
+	url = https://github.com/wtbarnes/fiasco
+[submodule "pyhc_packages/fisspy"]
+	path = pyhc_packages/fisspy
+	url = https://github.com/SNU-sunday/fisspy
+[submodule "pyhc_packages/gcmprocpy"]
+	path = pyhc_packages/gcmprocpy
+	url = https://github.com/NCAR/gcmprocpy.git
+[submodule "pyhc_packages/GeoDataPython"]
+	path = pyhc_packages/GeoDataPython
+	url = https://github.com/jswoboda/GeoDataPython
+[submodule "pyhc_packages/geopack"]
+	path = pyhc_packages/geopack
+	url = https://github.com/tsssss/geopack
+[submodule "pyhc_packages/geospacelab"]
+	path = pyhc_packages/geospacelab
+	url = https://github.com/JouleCai/geospacelab
+[submodule "pyhc_packages/hermes_core"]
+	path = pyhc_packages/hermes_core
+	url = https://github.com/HERMES-SOC/hermes_core
+[submodule "pyhc_packages/hissw"]
+	path = pyhc_packages/hissw
+	url = https://github.com/wtbarnes/hissw
+[submodule "pyhc_packages/irispy-lmsal"]
+	path = pyhc_packages/irispy-lmsal
+	url = https://github.com/LM-SAL/irispy-lmsal
+[submodule "pyhc_packages/kaipy"]
+	path = pyhc_packages/kaipy
+	url = https://github.com/JHUAPL/kaipy
+[submodule "pyhc_packages/LOFAR-Sun-tools"]
+	path = pyhc_packages/LOFAR-Sun-tools
+	url = https://github.com/peijin94/LOFAR-Sun-tools
+[submodule "pyhc_packages/mcalf"]
+	path = pyhc_packages/mcalf
+	url = https://github.com/ConorMacBride/mcalf
+[submodule "pyhc_packages/ndcube"]
+	path = pyhc_packages/ndcube
+	url = https://github.com/sunpy/ndcube
+[submodule "pyhc_packages/OMMBV"]
+	path = pyhc_packages/OMMBV
+	url = https://github.com/CosmicStudioSoftware/OMMBV
+[submodule "pyhc_packages/pyaurorax"]
+	path = pyhc_packages/pyaurorax
+	url = https://github.com/aurorax-space/pyaurorax
+[submodule "pyhc_packages/CDFpp"]
+	path = pyhc_packages/CDFpp
+	url = https://github.com/SciQLop/CDFpp
+[submodule "pyhc_packages/pydarn"]
+	path = pyhc_packages/pydarn
+	url = https://github.com/SuperDARN/pydarn
+[submodule "pyhc_packages/pyflct"]
+	path = pyhc_packages/pyflct
+	url = https://github.com/sunpy/pyflct
+[submodule "pyhc_packages/pyglow"]
+	path = pyhc_packages/pyglow
+	url = https://github.com/timduly4/pyglow
+[submodule "pyhc_packages/PyGS"]
+	path = pyhc_packages/PyGS
+	url = https://github.com/PyGSDR/PyGS
+[submodule "pyhc_packages/irfu-python"]
+	path = pyhc_packages/irfu-python
+	url = https://github.com/louis-richard/irfu-python
+[submodule "pyhc_packages/pysatCDF"]
+	path = pyhc_packages/pysatCDF
+	url = https://github.com/pysat/pysatCDF
+[submodule "pyhc_packages/python-magnetosphere"]
+	path = pyhc_packages/python-magnetosphere
+	url = https://github.com/dpq/python-magnetosphere
+[submodule "pyhc_packages/regularizepsf"]
+	path = pyhc_packages/regularizepsf
+	url = https://github.com/punch-mission/regularizepsf
+[submodule "pyhc_packages/sami2py"]
+	path = pyhc_packages/sami2py
+	url = https://github.com/sami2py/sami2py
+[submodule "pyhc_packages/sammi"]
+	path = pyhc_packages/sammi
+	url = https://github.com/swxsoc/sammi
+[submodule "pyhc_packages/SAVIC"]
+	path = pyhc_packages/SAVIC
+	url = https://github.com/MihailoMartinovic/SAVIC
+[submodule "pyhc_packages/SciQLop"]
+	path = pyhc_packages/SciQLop
+	url = https://github.com/SciQLop/SciQLop
+[submodule "pyhc_packages/SkyWinder"]
+	path = pyhc_packages/SkyWinder
+	url = https://github.com/PolarMesosphericClouds/SkyWinder
+[submodule "pyhc_packages/solarmach"]
+	path = pyhc_packages/solarmach
+	url = https://github.com/jgieseler/solarmach
+[submodule "pyhc_packages/solo-epd-loader"]
+	path = pyhc_packages/solo-epd-loader
+	url = https://github.com/jgieseler/solo-epd-loader
+[submodule "pyhc_packages/space_packet_parser"]
+	path = pyhc_packages/space_packet_parser
+	url = https://github.com/lasp/space_packet_parser
+[submodule "pyhc_packages/speasy"]
+	path = pyhc_packages/speasy
+	url = https://github.com/SciQLop/speasy
+[submodule "pyhc_packages/SpiceyPy"]
+	path = pyhc_packages/SpiceyPy
+	url = https://github.com/AndrewAnnex/SpiceyPy
+[submodule "pyhc_packages/sunkit-image"]
+	path = pyhc_packages/sunkit-image
+	url = https://github.com/sunpy/sunkit-image
+[submodule "pyhc_packages/ocbpy"]
+	path = pyhc_packages/ocbpy
+	url = https://github.com/aburrell/ocbpy
+[submodule "pyhc_packages/sunkit-instruments"]
+	path = pyhc_packages/sunkit-instruments
+	url = https://github.com/sunpy/sunkit-instruments
+[submodule "pyhc_packages/sunraster"]
+	path = pyhc_packages/sunraster
+	url = https://github.com/sunpy/sunraster
+[submodule "pyhc_packages/swxsoc"]
+	path = pyhc_packages/swxsoc
+	url = https://github.com/swxsoc/swxsoc
+[submodule "pyhc_packages/TomograPy"]
+	path = pyhc_packages/TomograPy
+	url = https://github.com/nbarbey/TomograPy
+[submodule "pyhc_packages/VirES-Python-Client"]
+	path = pyhc_packages/VirES-Python-Client
+	url = https://github.com/ESA-VirES/VirES-Python-Client
+[submodule "pyhc_packages/xrtpy"]
+	path = pyhc_packages/xrtpy
+	url = https://github.com/HinodeXRT/xrtpy
+[submodule "pyhc_packages/ACE_magnetometer"]
+	path = pyhc_packages/ACE_magnetometer
+	url = https://github.com/space-physics/ACE_magnetometer
+[submodule "pyhc_packages/AEindex"]
+	path = pyhc_packages/AEindex
+	url = https://github.com/space-physics/AEindex
+[submodule "pyhc_packages/dascasi"]
+	path = pyhc_packages/dascasi
+	url = https://github.com/space-physics/dascasi
+[submodule "pyhc_packages/digital-meridian-spectrometer"]
+	path = pyhc_packages/digital-meridian-spectrometer
+	url = https://github.com/space-physics/digital-meridian-spectrometer
+[submodule "pyhc_packages/georinex"]
+	path = pyhc_packages/georinex
+	url = https://github.com/geospace-code/georinex
+[submodule "pyhc_packages/GOESplot"]
+	path = pyhc_packages/GOESplot
+	url = https://github.com/space-physics/GOESplot
+[submodule "pyhc_packages/gima-magnetometer"]
+	path = pyhc_packages/gima-magnetometer
+	url = https://github.com/space-physics/gima-magnetometer
+[submodule "pyhc_packages/NCAR-GLOW"]
+	path = pyhc_packages/NCAR-GLOW
+	url = https://github.com/space-physics/NCAR-GLOW
+[submodule "pyhc_packages/hwm93"]
+	path = pyhc_packages/hwm93
+	url = https://github.com/space-physics/hwm93
+[submodule "pyhc_packages/igrf"]
+	path = pyhc_packages/igrf
+	url = https://github.com/space-physics/igrf
+[submodule "pyhc_packages/iri2016"]
+	path = pyhc_packages/iri2016
+	url = https://github.com/space-physics/iri2016
+[submodule "pyhc_packages/iri90"]
+	path = pyhc_packages/iri90
+	url = https://github.com/space-physics/iri90
+[submodule "pyhc_packages/lowtran"]
+	path = pyhc_packages/lowtran
+	url = https://github.com/space-physics/lowtran
+[submodule "pyhc_packages/maidenhead"]
+	path = pyhc_packages/maidenhead
+	url = https://github.com/space-physics/maidenhead
+[submodule "pyhc_packages/mgs-radio"]
+	path = pyhc_packages/mgs-radio
+	url = https://github.com/space-physics/mgs-radio
+[submodule "pyhc_packages/POLAN"]
+	path = pyhc_packages/POLAN
+	url = https://github.com/space-physics/POLAN
+[submodule "pyhc_packages/gemini3d"]
+	path = pyhc_packages/gemini3d
+	url = https://github.com/gemini3d/gemini3d
+[submodule "pyhc_packages/pymap3d"]
+	path = pyhc_packages/pymap3d
+	url = https://github.com/geospace-code/pymap3d
+[submodule "pyhc_packages/pyzenodo3"]
+	path = pyhc_packages/pyzenodo3
+	url = https://github.com/space-physics/pyzenodo3
+[submodule "pyhc_packages/reesaurora"]
+	path = pyhc_packages/reesaurora
+	url = https://github.com/space-physics/reesaurora
+[submodule "pyhc_packages/scanning-doppler-interferometer"]
+	path = pyhc_packages/scanning-doppler-interferometer
+	url = https://github.com/space-physics/scanning-doppler-interferometer
+[submodule "pyhc_packages/sciencedates"]
+	path = pyhc_packages/sciencedates
+	url = https://github.com/geospace-code/sciencedates
+[submodule "pyhc_packages/themisasi"]
+	path = pyhc_packages/themisasi
+	url = https://github.com/space-physics/themisasi
+[submodule "pyhc_packages/WMM2015"]
+	path = pyhc_packages/WMM2015
+	url = https://github.com/space-physics/WMM2015
+[submodule "pyhc_packages/msise00"]
+	path = pyhc_packages/msise00
+	url = https://github.com/space-physics/msise00
+[submodule "pyhc_packages/madrigalWeb"]
+	path = pyhc_packages/madrigalWeb
+	url = https://github.com/MITHaystack/madrigalWeb
+[submodule "pyhc_packages/NEXRAD"]
+	path = pyhc_packages/NEXRAD
+	url = https://github.com/space-physics/NEXRAD
+[submodule "pyhc_packages/astrometry_geomap"]
+	path = pyhc_packages/astrometry_geomap
+	url = https://github.com/space-physics/astrometry_geomap
+[submodule "pyhc_packages/PyTplot"]
+	path = pyhc_packages/PyTplot
+	url = https://github.com/MAVENSDC/PyTplot
+[submodule "pyhc_packages/wmm2020"]
+	path = pyhc_packages/wmm2020
+	url = https://github.com/space-physics/wmm2020
