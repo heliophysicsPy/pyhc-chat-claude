@@ -18,16 +18,7 @@ jobs:
 
       - name: Update all submodules to latest
         run: |
-          # Update each submodule to the latest commit on its tracked branch
-          git submodule foreach '
-            # Get the default branch (usually main or master)
-            default_branch=$(git remote show origin | grep "HEAD branch" | cut -d ":" -f 2 | xargs)
-            echo "Updating $name to latest $default_branch..."
-            git checkout $default_branch 2>/dev/null || git checkout main 2>/dev/null || git checkout master
-            git pull origin $default_branch || git pull origin main || git pull origin master
-          '
-          # Stage all submodule updates
-          git add pyhc_packages/
+          git submodule update --remote
 
       - name: Check for changes
         id: check_changes
