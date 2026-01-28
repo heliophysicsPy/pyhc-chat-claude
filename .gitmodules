@@ -286,3 +286,6 @@
 [submodule "pyhc_packages/wmm2020"]
 	path = pyhc_packages/wmm2020
 	url = https://github.com/space-physics/wmm2020
+[submodule "pyhc_packages/pyhc-core"]
+	path = pyhc_packages/pyhc-core
+	url = https://github.com/heliophysicsPy/pyhc-core.git
