@@ -289,6 +289,6 @@
 [submodule "pyhc_packages/pyhc-core"]
 	path = pyhc_packages/pyhc-core
 	url = https://github.com/heliophysicsPy/pyhc-core.git
-[submodule "pyhc-actions"]
-	path = pyhc-actions
+[submodule "pyhc_packages/pyhc-actions"]
+	path = pyhc_packages/pyhc-actions
 	url = https://github.com/heliophysicsPy/pyhc-actions.git
